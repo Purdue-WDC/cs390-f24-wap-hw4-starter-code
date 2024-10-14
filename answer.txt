@@ -1,0 +1,19 @@
+Now that you have had the opportunity of using vanilla JS,
+our fine-grained framework, and React, I want to know more
+about your experiences developing in each. Answer each
+question below with 1-2 sentences.
+
+Note: If you did not choose to use React, replace React with
+the framework chosen in the questions below.
+
+1. What did you like about vanilla JS?
+
+2. What did you not like about vanilla JS?
+
+3. What did you like about our framework?
+
+4. What did you not like our framework?
+
+5. What did you like about React?
+
+6. What did you not like about React?
